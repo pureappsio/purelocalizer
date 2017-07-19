@@ -1,5 +1,5 @@
-Meteor.startup(function () {
+Meteor.startup(function() {
 
-  Meteor.call('clearLinks');
+    Meteor.call('clearLinks');
 
 });
